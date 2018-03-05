@@ -112,7 +112,7 @@ To export an excel file
  * scroll down to the buttom of the list
  * and press on the *export excel* button
 
-**Please note: By pressing the export excel button the app will export every entry of the chosen month.
+**Please note: By pressing the export excel button the app will export every entry of the chosen month.**
 
 You can switch the months statistics by clicking on the left and right arrows.
  
@@ -146,7 +146,7 @@ To delete a customer
 2. you DO NOT delete it from the database but only from the UI
 3. the already created records will NOT be deleted. You stil can find them in your tracking and managing view
 4. you stil be able to export already created records in the excel overview
-5. you no longer will be able to track new records for this customer or its projects 
+5. you will no longer be able to track new records for this customer or its projects**
 
 To restore deleted customers, please contact the administrator.
 
