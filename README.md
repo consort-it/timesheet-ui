@@ -1,5 +1,8 @@
-# Beets UI (Bee timesheet)
-**Beets** app provides simple time tracking, managing and exel export functions for small companies with little traffic. It was develeped in Angular and tailored to the needs of **Consort Center of Excellence**. Every employee can enter the working hours per day and project in the tracking view, display his record history in the managing view and create new customers and projects in the customers view.
+# Beets UI (Bee time sheet)
+
+![beets logo](/img/beets_logo.png)
+
+**Beets** app provides simple time tracking, managing and exel export functions for small companies with little traffic. It was develeped in Angular and tailored to the needs of **Consort Center of Excellence**. Every employee can enter the working hours per day and project in the tracking view, display his and company record history in the managing view and create new customers and projects in the customers view.
 
 ---
 
