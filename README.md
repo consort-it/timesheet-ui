@@ -26,7 +26,7 @@
 
 ---
 
-4. Managing Customers & Projects
+4. Managing customers and projects
   * [Create new customer](#create-new-customer)
   * [Edit customer](#edit-customer)
   * [Delete customer](#delete-customer)
@@ -36,7 +36,8 @@
 
 ---
 
-6. [Components overview](#components-overview)
+5. Technical overview
+  * [Components](#components)
 
 ---
 
@@ -79,7 +80,7 @@ Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsas
 
 ---
 
-## 4. Managing Customers & Projects
+## 4. Managing customers & projects
 
 ### Create new customer
 Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
@@ -99,5 +100,9 @@ Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsas
 ### Delete project
 Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
 
-### Components overview
+---
+
+5. Technical overview
+
+### Components
 Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
