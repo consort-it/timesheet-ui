@@ -1,23 +1,32 @@
 # Beets UI (Bee timesheet)
-**Beets** app provides simple time tracking, managing and exel export functions for small companies with little traffic. It was develeped in Angular and tailored to the needs of *Consort Center of Excellence*.
+**Beets** app provides simple time tracking, managing and exel export functions for small companies with little traffic. It was develeped in Angular and tailored to the needs of *Consort Center of Excellence*. Every employee can enter the working hours per day and project in the tracking view, display his record history in the managing view and create new customers and projects in the customers view.
+
+---
 
 ## How to use
 
-* Create new user
-* First login
-* Choose a company from *Center of Excellence* list
+1. First steps
+  * [Create new user](#create-new-user)
+  * [First login](#first-login)
+  * [Choose company from list](#choose-company-from-list)
 
-* Tracking time
+---
+
+2. Tracking time
   * [Create new record](#create-new-record)
   * [Create new record from list](#create-new-record-from-list)
   * [Edit record](#edit-record)
   * [Delete record](#delete-record)
 
-* Manging Records
+---
+
+3. Manging Records
   * [Show your own record history](#show-your-own-record-history)
   * [Show company record history](#show-company-record-history)
-  
-* Managing Customers & Projects
+
+---
+
+4. Managing Customers & Projects
   * [Create new customer](#create-new-customer)
   * [Edit customer](#edit-customer)
   * [Delete customer](#delete-customer)
@@ -25,7 +34,28 @@
   * [Edit project](#edit-project)
   * [Delete project](#delete-project)
 
-### Create new records
+---
+
+6. [Components overview](#components-overview)
+
+---
+
+# 1. First steps
+
+### Create new user
+Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
+
+### First login
+Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
+
+### Choose company from list
+Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
+
+---
+
+## 2. Tracking time
+
+### Create new record
 Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
 
 ### Create new record from list
@@ -37,11 +67,19 @@ Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsas
 ### Delete record
 Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
 
+---
+
+## 3. Manging Records
+
 ### Show your own record history
 Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
 
 ### Show company record history 
 Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
+
+---
+
+## 4. Managing Customers & Projects
 
 ### Create new customer
 Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
@@ -59,4 +97,7 @@ Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsas
 Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
 
 ### Delete project
+Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
+
+### Components overview
 Horrido! Das nichtsnutzig Trinkhalle. Das Aue verhaspeln die töricht Tausendsassa. Das famos Fatzke. Tölpel und Quacksalber erquicken schnieke Hechtsuppe. Das Schwedenfilm auftakeln das stramm Edelmut. Das Lümmel grämen das stramm Unsitte. Der schnieke Gesinde. Das halbstark Räuber foppen. Der pfundig Weltschmerz lobpreisen. Die rosig Quasselstrippe. Maulaffen feilhalten!
