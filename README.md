@@ -141,12 +141,12 @@ To delete a customer
  * select the right customer from list by clicking on it
  * click on the *delete icon* which will show up in the upper toolbar after you selected a customer
  
-**Please note: By deleting a customer
+**Please note: By deleting a customer**
 1. you also delete all projects for this customer
 2. you DO NOT delete it from the database but only from the UI
 3. the already created records will NOT be deleted. You stil can find them in your tracking and managing view
 4. you stil be able to export already created records in the excel overview
-5. you will no longer be able to track new records for this customer or its projects**
+5. you will no longer be able to track new records for this customer or its projects
 
 To restore deleted customers, please contact the administrator.
 
