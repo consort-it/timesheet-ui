@@ -2,7 +2,7 @@
 
 ![beets logo](/img/beets_logo.png)
 
-**Beets** app provides simple time tracking, managing and exel export functions for small companies with little traffic. It was develeped in Angular and tailored to the needs of **Consort Center of Excellence**. Every employee can enter the working hours per day and project in the tracking view, display his and company record history in the managing view and create new customers and projects in the customers view.
+**Beets** app provides simple time tracking, managing and excel export functions for small companies with little traffic. It was developed in Angular and tailored to the needs of **Consort Center of Competence**. Every employee can enter the working hours per day and project in the tracking view, display his and companies' record history in the managing view and create new customers and projects in the customers view.
 
 ---
 
@@ -23,9 +23,9 @@
 
 ---
 
-3. Manging Records
+3. Managing Records
   * [Display your own record history](#Display-your-own-record-history)
-  * [Display company record history](#Display-company-record-history)
+  * [Display record history of the company](#Display-record-history-of-the-company)
   * [Export excel file](#Export-excel-file)
 
 ---
@@ -48,12 +48,13 @@
 ## 1. First steps
 
 #### Create new user
-To create a new user please login in the AWS Cognito. For further information check out our [how to create new cognito user](#link) tutorial.
+To create a new user please login in AWS Cognito. For further information check out [how to create new cognito user](#link) tutorial.
 
 #### First login
-After the first login to the beets app you'll have to change your temporery password (which you'll find in your email) and fill out some additional information about yourself.
+After the first login to the beets app you'll have to change your temporary password (which you'll find in your email) and fill out some additional information about yourself.
 
 **Please pay attention to the AWS Cognito password policy:**
+![password policy](/img/password_policy.png)
 
 ![first login](/img/first_login.png)
 
@@ -71,7 +72,7 @@ Every time you login you can choose your company from the dropdown menu. To chan
 #### Create new record
 To create a new record 
  * go to the tracking view by selecting *Tracking* in the upper left burger menu 
- * then click on the *plus icon* in the toolbar bellow the date picker
+ * then click on the *plus icon* in the toolbar below the date picker
  * fill out required informations and click on *add*
  
 ![new record](/img/new_record.png) ![new record_2](/img/new_record_2.png)
@@ -99,12 +100,12 @@ To display your own record history
  * go to the managing view by selecting *Managing* in the upper left burger menu
  * and click on the *user* tab
  
-You can switch the months statistics by clicking on the left and right arrows.
+You can switch the months statistics by clicking on the left and right datepicker arrows.
  
 ![manage user](/img/manage_user.png)
 
-#### Display company record history 
-To display company record history
+#### Display record history of the company
+To display record history of the company
  * go to the managing view by selecting *Managing* in the upper left burger menu
  * and click on the *company* tab.
  
@@ -115,9 +116,9 @@ To export an excel file
  * scroll down to the buttom of the list
  * and press on the *export excel* button
 
-**Please note: By pressing the export excel button the app will export every entry of the chosen month.**
+**Please note: By pressing the export excel button the beets app will export every entry of the chosen month.**
 
-You can switch the months statistics by clicking on the left and right arrows.
+You can switch the months statistics by clicking on the left and right datepicker arrows.
  
 ![manage user](/img/manage_user.png)
 
@@ -147,8 +148,8 @@ To delete a customer
 **Please note: By deleting a customer**
 1. you also delete all projects for this customer
 2. you DO NOT delete it from the database but only from the UI
-3. the already created records will NOT be deleted. You stil can find them in your tracking and managing view
-4. you stil be able to export already created records in the excel overview
+3. already created records will NOT be deleted. You still can find them in your tracking and managing view
+4. you still be able to export already created records in the excel overview
 5. you will no longer be able to track new records for this customer or its projects
 
 To restore deleted customers, please contact the administrator.
@@ -173,6 +174,12 @@ To delete a project
  * choose a customer by clicking one the arrow on the right side of each customers row
  * select the project you want to delete by clicking on it
  * click on the *delete icon* which will show up in the upper toolbar after you selected a project
+
+**Please note: By deleting a project**
+1. you DO NOT delete it from the database but only from the UI
+2. already created records will NOT be deleted. You still can find them in your tracking and managing view
+3. you still be able to export already created records in the excel overview
+5. you will no longer be able to track new records for this project
 
 ![delete project](/img/delete_project.png) ![delete project 2](/img/delete_project_2.png)
 
