@@ -22,8 +22,8 @@
 ---
 
 3. Managing Records
-  * [Display your own record history](#Display-your-own-record-history)
-  * [Display record history of the competence center](#Display-record-history-of-the-competence-center)
+  * [Display your own record history](#display-your-own-record-history)
+  * [Display record history of the competence center](#display-record-history-of-the-competence-center)
   * [Export excel file](#Export-excel-file)
 
 ---
